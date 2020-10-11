@@ -1,7 +1,9 @@
 # An Evaluation of Unity ML-Agents Toolkit for Learning Boss Strategies.
 
-A repository for the Unity project implemented for the thesis for my MSc. in Computer Science
+A repository for the Unity project implemented for the thesis for my MSc. in Computer Science. \\
+
 For more information about the thesis, please refer to the following public repository link: http://hdl.handle.net/1946/37111
+
 Feel free to use the same link to cite the project if it is useful to you.
 
 ## Abstract
