@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7273856e05a9e5e468113f042179ee54, type: 3}
+  m_Name: BossActionManager (4)
+  m_EditorClassIdentifier: 
+  availableAttacks:
+  - {fileID: 11400000, guid: 79e0ab74d9d1f04488b33e928ea5ff5b, type: 2}
+  - {fileID: 11400000, guid: d57862b7ddba8f649a6de03c477be564, type: 2}
+  - {fileID: 11400000, guid: 761a9c7aaa2a93e46ac455f5051ffa33, type: 2}
+  - {fileID: 11400000, guid: 859ecd6ae76af1545b0ca61ac9a6f156, type: 2}
+  - {fileID: 11400000, guid: bcb9ef87a0b88fc44b35372174aaf7ab, type: 2}
+  - {fileID: 11400000, guid: 0325ba765444ecb48a7cac14ed33232a, type: 2}
+  selectedAttack: {fileID: 0}
